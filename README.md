@@ -38,7 +38,7 @@ Esse projeto requer __um node do RabbitMQ rodando no localhost com as configura�
 * Instalação do Docker Desktop em https://docs.docker.com/desktop/
 
 * Instalar o .NET 8 Runtime em https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/8.0.16/windowsdesktop-runtime-8.0.16-win-x64.exe
-* Dentro deste repositório em /bin/Release/net8.0/ se encontram os executáveis: __MockProcessingNode__ que processa a requisição da aplicação API e __APIDesafio__ que implementa os EndPoints requeridos, junto com suas dlls.
+* Dentro deste repositório em /bin/Release/net8.0/ se encontram os executáveis junto com suas dlls: __MockProcessingNode__ processa a requisição POST da aplicação API  e __APIDesafio__ que implementa os EndPoints requeridos.
 * Para utilizar os executáveis extraia a pasta net8.0 de cada aplicação e rode os executáveis em suas respectivas pastas.
 * Para executar esse projeto inicie o node do RabbitMQ executando o comando `docker run -it --rm --name rabbitmq -p 5672:5672 -p 15672:15672 rabbitmq:4-management` no Console/PowerShell e em seguida execute ambos os executáveis.
 * Para visualizar as Filas do RabbitMQ acesse localhost:15672/
