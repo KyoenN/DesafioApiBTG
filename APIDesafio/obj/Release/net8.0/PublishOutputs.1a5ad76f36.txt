@@ -1,0 +1,12 @@
+C:\Workspace\SistemaProcessamentoAssincronoDesafio\APIDesafio\obj\Release\net8.0\PubTmp\Out\APIDesafio.exe
+C:\Workspace\SistemaProcessamentoAssincronoDesafio\APIDesafio\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Workspace\SistemaProcessamentoAssincronoDesafio\APIDesafio\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Workspace\SistemaProcessamentoAssincronoDesafio\APIDesafio\obj\Release\net8.0\PubTmp\Out\APIDesafio.dll
+C:\Workspace\SistemaProcessamentoAssincronoDesafio\APIDesafio\obj\Release\net8.0\PubTmp\Out\APIDesafio.deps.json
+C:\Workspace\SistemaProcessamentoAssincronoDesafio\APIDesafio\obj\Release\net8.0\PubTmp\Out\APIDesafio.runtimeconfig.json
+C:\Workspace\SistemaProcessamentoAssincronoDesafio\APIDesafio\obj\Release\net8.0\PubTmp\Out\APIDesafio.pdb
+C:\Workspace\SistemaProcessamentoAssincronoDesafio\APIDesafio\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Workspace\SistemaProcessamentoAssincronoDesafio\APIDesafio\obj\Release\net8.0\PubTmp\Out\RabbitMQ.Client.dll
+C:\Workspace\SistemaProcessamentoAssincronoDesafio\APIDesafio\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Workspace\SistemaProcessamentoAssincronoDesafio\APIDesafio\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Workspace\SistemaProcessamentoAssincronoDesafio\APIDesafio\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

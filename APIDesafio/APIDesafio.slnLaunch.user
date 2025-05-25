@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "DesafioBTGAPIeMockProcess",
+    "Projects": [
+      {
+        "Path": "APIDesafio.csproj",
+        "Action": "Start",
+        "DebugTarget": "https"
+      },
+      {
+        "Path": "..\\MockProcessingNode\\MockProcessingNode.csproj",
+        "Action": "Start",
+        "DebugTarget": "MockProcessingNode"
+      }
+    ]
+  }
+]

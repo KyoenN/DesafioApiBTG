@@ -1,0 +1,8 @@
+C:\Workspace\SistemaProcessamentoAssincronoDesafio\MockProcessingNode\bin\Release\net8.0\publish\MockProcessingNode.exe
+C:\Workspace\SistemaProcessamentoAssincronoDesafio\MockProcessingNode\bin\Release\net8.0\publish\MockProcessingNode.dll
+C:\Workspace\SistemaProcessamentoAssincronoDesafio\MockProcessingNode\bin\Release\net8.0\publish\MockProcessingNode.deps.json
+C:\Workspace\SistemaProcessamentoAssincronoDesafio\MockProcessingNode\bin\Release\net8.0\publish\MockProcessingNode.runtimeconfig.json
+C:\Workspace\SistemaProcessamentoAssincronoDesafio\MockProcessingNode\bin\Release\net8.0\publish\MockProcessingNode.pdb
+C:\Workspace\SistemaProcessamentoAssincronoDesafio\MockProcessingNode\bin\Release\net8.0\publish\RabbitMQ.Client.dll
+C:\Workspace\SistemaProcessamentoAssincronoDesafio\MockProcessingNode\bin\Release\net8.0\publish\System.IO.Pipelines.dll
+C:\Workspace\SistemaProcessamentoAssincronoDesafio\MockProcessingNode\bin\Release\net8.0\publish\System.Threading.RateLimiting.dll

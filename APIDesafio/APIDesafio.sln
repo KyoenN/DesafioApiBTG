@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIDesafio", "APIDesafio.csproj", "{D86C4A5B-FE52-4C02-AD44-5001A4931D8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockProcessingNode", "..\MockProcessingNode\MockProcessingNode.csproj", "{09B5B321-9FDB-4663-9046-E2602D525625}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D86C4A5B-FE52-4C02-AD44-5001A4931D8A}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{D86C4A5B-FE52-4C02-AD44-5001A4931D8A}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{D86C4A5B-FE52-4C02-AD44-5001A4931D8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D86C4A5B-FE52-4C02-AD44-5001A4931D8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09B5B321-9FDB-4663-9046-E2602D525625}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{09B5B321-9FDB-4663-9046-E2602D525625}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{09B5B321-9FDB-4663-9046-E2602D525625}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09B5B321-9FDB-4663-9046-E2602D525625}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07D956B0-8772-400E-85B2-6742418C779D}
+	EndGlobalSection
+EndGlobal
